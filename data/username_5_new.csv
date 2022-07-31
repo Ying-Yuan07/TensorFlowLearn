@@ -1,0 +1,860 @@
+user_id,session_id,app_name,event_type,user,week,hour_part
+0,2,Google,Closed,0,0,1
+0,2,Instagram,Closed,0,0,1
+0,3,Google Chrome,Closed,0,0,1
+0,3,Google Chrome,Closed,0,0,1
+0,4,Google Chrome,Closed,0,0,1
+0,4,Google Chrome,Closed,0,0,1
+0,5,Google Chrome,Closed,0,0,2
+0,5,Google Chrome,Closed,0,0,2
+0,6,Google Chrome,Closed,0,0,2
+0,6,Google Chrome,Closed,0,0,2
+0,7,Google Chrome,Closed,0,0,2
+0,7,Google Chrome,Closed,0,0,2
+0,10,Google Chrome,Closed,0,0,2
+0,10,Google Chrome,Closed,0,0,2
+0,11,Google Chrome,Closed,0,0,3
+0,12,Google Chrome,Closed,0,0,3
+0,13,Google Chrome,Closed,0,0,3
+0,13,Google Chrome,Closed,0,0,3
+0,14,Google Chrome,Closed,0,0,3
+0,15,Google Chrome,Closed,0,0,3
+0,16,Google Chrome,Closed,0,0,3
+0,18,Google Chrome,Closed,0,0,3
+0,19,Google Chrome,Closed,0,0,3
+0,20,Google,Closed,0,0,3
+0,21,Google,Closed,0,0,4
+0,22,Google,Closed,0,0,4
+0,22,Google,Closed,0,0,4
+0,23,Google,Closed,0,0,4
+0,24,Google,Closed,0,0,4
+0,24,Google,Closed,0,0,4
+0,25,Google,Closed,0,0,4
+0,27,Google,Closed,0,0,5
+0,27,Google,Closed,0,0,5
+0,28,Google,Closed,0,0,5
+0,29,Google,Closed,0,0,5
+0,31,Gmail,Closed,0,0,5
+0,31,Gmail,Closed,0,0,5
+0,31,Gmail,Closed,0,0,5
+0,31,Gmail,Closed,0,0,5
+0,31,Google,Closed,0,0,5
+0,31,Google Chrome,Closed,0,0,5
+0,31,Google,Closed,0,0,5
+0,31,Google,Closed,0,0,5
+0,31,Google,Closed,0,0,5
+0,31,Google Chrome,Closed,0,0,5
+0,32,Google Chrome,Closed,0,0,5
+0,32,Google,Closed,0,0,5
+0,41,Google,Closed,0,0,1
+0,41,Google,Closed,0,0,1
+0,41,Instagram,Closed,0,0,1
+0,41,Google,Closed,0,0,1
+0,43,Google,Closed,0,0,5
+0,44,Gmail,Closed,0,0,5
+0,44,Gmail,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,44,Google Chrome,Closed,0,0,5
+0,44,Google Chrome,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,44,Google Chrome,Closed,0,0,5
+0,44,Google Chrome,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,44,Google,Closed,0,0,5
+0,46,Google,Closed,0,0,5
+0,48,Google,Closed,0,0,0
+0,50,Google,Closed,0,0,0
+0,51,Google Chrome,Closed,0,0,0
+0,51,Google Chrome,Closed,0,0,0
+0,51,Google Chrome,Closed,0,0,0
+0,54,Google Chrome,Closed,0,0,1
+0,55,Google Chrome,Closed,0,0,1
+0,55,Google,Closed,0,0,1
+0,55,Google Chrome,Closed,0,0,1
+0,55,Google,Closed,0,0,1
+0,55,Google Chrome,Closed,0,0,1
+0,55,Amazon Shopping,Closed,0,0,1
+0,56,Google Chrome,Closed,0,0,1
+0,57,Google,Closed,0,0,1
+0,71,Google,Closed,0,0,3
+0,71,Google,Closed,0,0,3
+0,72,Google,Closed,0,0,3
+0,74,Google,Closed,0,0,3
+0,74,Google Chrome,Closed,0,0,3
+0,74,Google Chrome,Closed,0,0,3
+0,74,Google Chrome,Closed,0,0,3
+0,74,Google,Closed,0,0,3
+0,81,Google,Closed,0,0,3
+0,83,Instagram,Closed,0,0,4
+0,84,Instagram,Closed,0,0,4
+0,85,Instagram,Closed,0,0,4
+0,86,Instagram,Closed,0,0,4
+0,87,Instagram,Closed,0,0,4
+0,87,Instagram,Closed,0,0,4
+0,87,Google,Closed,0,0,4
+0,87,Google,Closed,0,0,4
+0,87,Google Play Store,Closed,0,0,4
+0,88,Google Play Store,Closed,0,0,4
+0,88,Google,Closed,0,0,4
+0,88,Google,Closed,0,0,4
+0,88,Google Chrome,Closed,0,0,4
+0,89,Google Chrome,Closed,0,0,4
+0,89,Google,Closed,0,0,4
+0,91,Google,Closed,0,0,4
+0,91,Google,Closed,0,0,4
+0,92,Google,Closed,0,0,4
+0,92,Google,Closed,0,0,4
+0,92,Google Chrome,Closed,0,0,4
+0,93,Google Chrome,Closed,0,0,4
+0,94,Google Chrome,Closed,0,0,4
+0,94,Google Chrome,Closed,0,0,4
+0,95,Google Chrome,Closed,0,0,4
+0,95,Google Chrome,Closed,0,0,4
+0,95,Google,Closed,0,0,4
+0,95,Google Play Store,Closed,0,0,4
+0,95,Google Play Store,Closed,0,0,4
+0,106,Google,Closed,0,0,3
+0,107,Google,Closed,0,0,3
+0,108,Google,Closed,0,0,3
+0,109,Google,Closed,0,0,3
+0,109,Gmail,Closed,0,0,3
+0,109,Google Chrome,Closed,0,0,3
+0,109,Gmail,Closed,0,0,3
+0,109,Google,Closed,0,0,3
+0,109,Google,Closed,0,0,3
+0,109,Facebook Messenger,Closed,0,0,3
+0,109,Facebook Messenger,Closed,0,0,3
+0,109,Google,Closed,0,0,3
+0,109,Instagram,Closed,0,0,3
+0,110,Instagram,Closed,0,0,3
+0,110,Gmail,Closed,0,0,3
+0,110,Gmail,Closed,0,0,3
+0,110,Gmail,Closed,0,0,3
+0,111,Gmail,Closed,0,0,3
+0,112,Google,Closed,0,0,3
+0,114,Google,Closed,0,0,3
+0,114,Gmail,Closed,0,0,3
+0,115,Gmail,Closed,0,0,4
+0,116,Gmail,Closed,0,0,4
+0,116,Gmail,Closed,0,0,4
+0,116,Google,Closed,0,0,4
+0,117,Google,Closed,0,0,4
+0,119,Google,Closed,0,0,4
+0,119,Facebook Messenger,Closed,0,0,4
+0,119,Google,Closed,0,0,4
+0,119,Facebook Messenger,Closed,0,0,4
+0,120,Facebook Messenger,Closed,0,0,4
+0,120,Google,Closed,0,0,4
+0,120,Google Chrome,Closed,0,0,4
+0,121,Google Chrome,Closed,0,0,4
+0,122,Google Chrome,Closed,0,0,4
+0,122,Google Chrome,Closed,0,0,4
+0,124,Google Chrome,Closed,0,0,5
+0,124,Google Chrome,Closed,0,0,5
+0,125,Google,Closed,0,0,5
+0,125,Google Chrome,Closed,0,0,5
+0,126,Google Chrome,Closed,0,0,5
+0,127,Google Chrome,Closed,0,0,5
+0,127,Google Chrome,Closed,0,0,5
+0,127,Google Chrome,Closed,0,0,5
+0,127,Google Chrome,Closed,0,0,5
+0,127,Google Chrome,Closed,0,0,5
+0,127,Google Chrome,Closed,0,0,5
+0,128,Google Chrome,Closed,0,0,5
+0,128,Google,Closed,0,0,5
+0,128,Google,Closed,0,0,5
+0,128,Google,Closed,0,0,5
+0,128,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Instagram,Closed,0,0,5
+0,129,Instagram,Closed,0,0,5
+0,129,Instagram,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,129,Google Chrome,Closed,0,0,5
+0,130,Google Chrome,Closed,0,0,5
+0,130,Google,Closed,0,0,5
+0,130,Google,Closed,0,0,5
+0,133,Google,Closed,0,0,0
+0,133,Google,Closed,0,0,1
+0,134,Google,Closed,0,0,1
+0,134,Google,Closed,0,0,1
+0,134,Google Chrome,Closed,0,0,1
+0,145,Google,Closed,0,0,3
+0,145,Google,Closed,0,0,3
+0,145,Google,Closed,0,0,3
+0,146,Google Chrome,Closed,0,0,3
+0,147,Google Chrome,Closed,0,0,3
+0,147,Google Chrome,Closed,0,0,3
+0,148,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,149,Instagram,Closed,0,0,3
+0,149,Instagram,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google Chrome,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,149,Google,Closed,0,0,3
+0,151,Google,Closed,0,0,3
+0,151,Google,Closed,0,0,3
+0,151,Google Chrome,Closed,0,0,3
+0,151,Google Chrome,Closed,0,0,3
+0,151,Google Chrome,Closed,0,0,3
+0,151,Google,Closed,0,0,3
+0,151,Google,Closed,0,0,3
+0,151,Google Chrome,Closed,0,0,3
+0,151,Google Chrome,Closed,0,0,3
+0,152,Google,Closed,0,0,3
+0,152,Google,Closed,0,0,4
+0,152,Google Chrome,Closed,0,0,4
+0,152,Google,Closed,0,0,4
+0,152,Google Chrome,Closed,0,0,4
+0,153,Google Chrome,Closed,0,0,4
+0,153,Google,Closed,0,0,4
+0,154,Google,Closed,0,0,4
+0,158,Google,Closed,0,0,5
+0,159,Google,Closed,0,0,5
+0,164,Facebook,Closed,0,0,5
+0,164,Google Chrome,Closed,0,0,5
+0,164,Google Chrome,Closed,0,0,5
+0,164,Maps,Closed,0,0,5
+0,164,Google Chrome,Closed,0,0,5
+0,164,Google Chrome,Closed,0,0,5
+0,164,Google,Closed,0,0,5
+0,165,Google,Closed,0,1,0
+0,166,Google,Closed,0,1,0
+0,166,Google Chrome,Closed,0,1,0
+0,167,Google Chrome,Closed,0,1,0
+0,168,Google Chrome,Closed,0,1,0
+0,168,Google Chrome,Closed,0,1,0
+0,168,Google,Closed,0,1,0
+0,168,Google,Closed,0,1,0
+0,168,Facebook,Closed,0,1,0
+0,168,Facebook,Closed,0,1,0
+0,168,Facebook,Closed,0,1,0
+0,169,Facebook,Closed,0,1,0
+0,169,Google,Closed,0,1,0
+0,169,Google,Closed,0,1,0
+0,169,Google,Closed,0,1,0
+0,170,Google,Closed,0,1,0
+0,170,Google,Closed,0,1,0
+0,171,Google,Closed,0,1,0
+0,171,Google,Closed,0,1,0
+0,172,Google,Closed,0,1,0
+0,183,Google,Closed,0,1,3
+0,194,Google,Closed,0,0,5
+0,195,Gmail,Closed,0,0,5
+0,195,Google,Closed,0,0,5
+0,196,Gmail,Closed,0,0,5
+0,196,Google,Closed,0,0,5
+0,198,Google,Closed,0,0,0
+0,199,Google,Closed,0,0,0
+0,199,Google,Closed,0,0,0
+0,200,Google,Closed,0,0,0
+0,203,Gmail,Closed,0,0,0
+0,206,Gmail,Closed,0,0,1
+0,206,Gmail,Closed,0,0,1
+0,206,Google,Closed,0,0,1
+0,206,Facebook,Closed,0,0,1
+0,206,Google,Closed,0,0,1
+0,206,Facebook,Closed,0,0,1
+0,206,Facebook,Closed,0,0,1
+0,206,Facebook,Closed,0,0,1
+0,206,Google,Closed,0,0,1
+0,206,Instagram,Closed,0,0,1
+0,206,Google,Closed,0,0,1
+0,207,Google,Closed,0,0,1
+0,217,Google,Closed,0,0,2
+0,219,Google,Closed,0,0,2
+0,220,Google,Closed,0,0,2
+0,221,Google,Closed,0,0,2
+0,224,Google,Closed,0,0,3
+0,224,Google,Closed,0,0,3
+0,224,Instagram,Closed,0,0,3
+0,224,Google,Closed,0,0,3
+0,224,Google,Closed,0,0,3
+0,224,Google,Closed,0,0,3
+0,224,Google,Closed,0,0,3
+0,224,Google Chrome,Closed,0,0,3
+0,224,Google Chrome,Closed,0,0,3
+0,224,Google Chrome,Closed,0,0,3
+0,225,Google Chrome,Closed,0,0,3
+0,225,Google,Closed,0,0,3
+0,225,Google,Closed,0,0,3
+0,225,Gmail,Closed,0,0,3
+0,226,Gmail,Closed,0,0,3
+0,228,Gmail,Closed,0,0,3
+0,229,Gmail,Closed,0,0,3
+0,229,Google,Closed,0,0,3
+0,229,Google Play Store,Closed,0,0,3
+0,229,Google,Closed,0,0,3
+0,229,Google Play Store,Closed,0,0,3
+0,229,Google,Closed,0,0,3
+0,230,Google,Closed,0,0,4
+0,231,Google,Closed,0,0,4
+0,232,Google,Closed,0,0,4
+0,232,Google,Closed,0,0,4
+0,233,Google,Closed,0,0,4
+0,234,Google,Closed,0,0,4
+0,234,Google,Closed,0,0,4
+0,234,Google,Closed,0,0,4
+0,237,Google,Closed,0,0,4
+0,237,Google,Closed,0,0,4
+0,237,Google,Closed,0,0,4
+0,238,Google,Closed,0,0,4
+0,239,Google,Closed,0,0,4
+0,240,Google,Closed,0,0,4
+0,240,Google,Closed,0,0,4
+0,240,Google,Closed,0,0,4
+0,241,Google,Closed,0,0,4
+1,246,Instagram,Closed,1,1,1
+1,246,Google,Closed,1,1,1
+1,246,Google Chrome,Closed,1,1,1
+1,246,Google Chrome,Closed,1,1,1
+1,246,Google,Closed,1,1,1
+1,247,Facebook Messenger,Closed,1,1,1
+1,247,Facebook,Closed,1,1,1
+1,247,Google,Closed,1,1,1
+1,247,Google Chrome,Closed,1,1,1
+1,247,Facebook Messenger,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,247,Google,Closed,1,1,1
+1,247,Google Chrome,Closed,1,1,1
+1,247,Google,Closed,1,1,1
+1,247,Google Chrome,Closed,1,1,1
+1,247,Twitter,Closed,1,1,1
+1,248,Facebook Messenger,Closed,1,1,1
+1,248,Facebook,Closed,1,1,1
+1,248,Facebook Messenger,Closed,1,1,1
+1,250,Facebook Messenger,Closed,1,1,3
+1,250,Facebook Messenger,Closed,1,1,3
+1,250,Facebook,Closed,1,1,3
+1,250,Facebook,Closed,1,1,3
+1,250,Facebook,Closed,1,1,3
+1,250,Google Play Store,Closed,1,1,3
+1,250,YouTube,Closed,1,1,3
+1,251,Google,Closed,1,1,4
+1,251,Google,Closed,1,1,4
+1,251,Google Chrome,Closed,1,1,4
+1,251,Google Chrome,Closed,1,1,4
+1,251,Facebook Messenger,Closed,1,1,4
+1,251,Facebook Messenger,Closed,1,1,4
+1,251,Facebook Messenger,Closed,1,1,4
+1,252,Facebook Messenger,Closed,1,1,4
+1,252,Facebook Messenger,Closed,1,1,4
+1,253,Facebook Messenger,Closed,1,1,4
+1,253,Google,Closed,1,1,4
+1,253,Facebook Messenger,Closed,1,1,4
+1,255,Facebook Messenger,Closed,1,1,4
+1,255,YouTube,Closed,1,1,4
+1,255,Facebook,Closed,1,1,4
+1,255,Facebook,Closed,1,1,4
+1,255,Facebook,Closed,1,1,4
+1,256,Facebook,Closed,1,1,4
+1,258,YouTube,Closed,1,1,4
+1,260,Google,Closed,1,1,4
+1,260,Google Chrome,Closed,1,1,4
+1,261,Google Chrome,Closed,1,1,4
+1,265,Google,Closed,1,1,4
+1,271,Google,Closed,1,1,5
+1,272,Google,Closed,1,1,5
+1,272,Google,Closed,1,1,5
+1,272,Facebook Messenger,Closed,1,1,5
+1,272,Facebook,Closed,1,1,5
+1,272,Facebook,Closed,1,1,5
+1,272,Facebook,Closed,1,1,5
+1,272,Facebook,Closed,1,1,5
+1,273,Facebook,Closed,1,1,5
+1,275,Google,Closed,1,1,5
+1,275,Google Chrome,Closed,1,1,5
+1,275,Google,Closed,1,1,5
+1,275,Google Chrome,Closed,1,1,5
+1,275,Google,Closed,1,1,5
+1,276,Google,Closed,1,1,5
+1,277,Google,Closed,1,1,5
+1,279,Google,Closed,1,1,0
+1,279,Google Chrome,Closed,1,1,0
+1,281,Facebook,Closed,1,1,0
+1,281,Instagram,Closed,1,1,0
+1,282,Google Play Store,Closed,1,1,0
+1,282,Google Chrome,Closed,1,1,0
+1,283,Google,Closed,1,1,0
+1,285,Google,Closed,1,1,1
+1,285,Google,Closed,1,1,1
+1,286,Instagram,Closed,1,1,1
+1,286,Twitter,Closed,1,1,1
+1,286,Twitter,Closed,1,1,1
+1,286,Twitter,Closed,1,1,1
+1,286,Instagram,Closed,1,1,1
+1,286,Google,Closed,1,1,1
+1,286,Instagram,Closed,1,1,1
+1,286,Google Chrome,Closed,1,1,1
+1,286,Instagram,Closed,1,1,1
+1,286,Instagram,Closed,1,1,1
+1,287,Facebook Messenger,Closed,1,1,3
+1,287,Instagram,Closed,1,1,3
+1,287,Facebook Messenger,Closed,1,1,3
+1,287,Instagram,Closed,1,1,3
+1,287,Facebook Messenger,Closed,1,1,3
+1,287,Instagram,Closed,1,1,3
+1,289,Google,Closed,1,1,3
+1,292,Google,Closed,1,1,4
+1,293,Google,Closed,1,1,4
+1,293,Google,Closed,1,1,4
+1,293,Google Chrome,Closed,1,1,4
+1,293,Google Chrome,Closed,1,1,4
+1,295,Google,Closed,1,0,3
+1,295,Google Chrome,Closed,1,0,3
+1,295,Google Chrome,Closed,1,0,3
+1,295,Google,Closed,1,0,3
+1,297,Google Play Store,Closed,1,0,3
+1,297,Instagram,Closed,1,0,3
+1,297,Instagram,Closed,1,0,3
+1,297,Instagram,Closed,1,0,3
+1,297,Facebook Messenger,Closed,1,0,3
+1,298,Google Play Store,Closed,1,0,3
+1,298,Google,Closed,1,0,3
+1,298,Google Play Store,Closed,1,0,3
+1,298,Google,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google,Closed,1,0,3
+1,298,Google,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google Chrome,Closed,1,0,3
+1,298,Google,Closed,1,0,3
+1,299,Facebook Messenger,Closed,1,0,3
+1,299,Facebook Messenger,Closed,1,0,3
+1,300,Google,Closed,1,0,4
+1,300,Google Chrome,Closed,1,0,4
+1,300,Google,Closed,1,0,4
+1,301,Google Play Store,Closed,1,0,4
+1,302,Facebook Messenger,Closed,1,0,4
+1,304,Google Chrome,Closed,1,0,4
+1,304,Google Chrome,Closed,1,0,4
+1,306,Facebook Messenger,Closed,1,0,5
+1,307,Facebook Messenger,Closed,1,0,5
+1,307,Google,Closed,1,0,5
+1,307,Google Chrome,Closed,1,0,5
+1,307,Google,Closed,1,0,5
+1,307,Google Chrome,Closed,1,0,5
+1,307,Google Chrome,Closed,1,0,5
+1,307,Google Chrome,Closed,1,0,5
+1,307,YouTube,Closed,1,0,5
+1,307,YouTube,Closed,1,0,5
+1,308,Facebook Messenger,Closed,1,0,5
+1,309,Facebook Messenger,Closed,1,0,5
+1,311,Facebook Messenger,Closed,1,0,5
+1,311,Facebook,Closed,1,0,5
+1,312,Facebook Messenger,Closed,1,0,5
+1,313,Google,Closed,1,0,5
+1,315,Google,Closed,1,0,0
+1,315,Google Chrome,Closed,1,0,0
+1,315,Google Chrome,Closed,1,0,0
+1,316,Google Chrome,Closed,1,0,0
+1,317,Google,Closed,1,0,0
+1,317,Google Chrome,Closed,1,0,0
+1,321,Google,Closed,1,0,0
+1,321,Google,Closed,1,0,0
+1,322,Instagram,Closed,1,0,1
+1,322,Google,Closed,1,0,1
+1,322,YouTube,Closed,1,0,1
+1,322,YouTube,Closed,1,0,1
+1,322,Google,Closed,1,0,1
+1,322,Google Chrome,Closed,1,0,1
+1,322,Google Chrome,Closed,1,0,1
+1,322,Facebook,Closed,1,0,1
+1,322,Google,Closed,1,0,1
+1,323,Google Chrome,Closed,1,0,1
+1,323,Google,Closed,1,0,1
+1,324,Google Chrome,Closed,1,0,1
+1,324,Google,Closed,1,0,1
+1,324,Google Chrome,Closed,1,0,1
+1,324,Google Chrome,Closed,1,0,1
+1,324,Google,Closed,1,0,1
+1,324,Google,Closed,1,0,1
+1,324,Google Chrome,Closed,1,0,1
+1,329,Google Play Store,Closed,1,0,1
+1,329,Google,Closed,1,0,1
+1,329,Google Play Store,Closed,1,0,1
+2,331,Gmail,Closed,2,0,1
+2,332,Facebook,Closed,2,0,1
+2,332,Facebook,Closed,2,0,1
+2,332,Google Chrome,Closed,2,0,1
+2,332,Facebook,Closed,2,0,1
+2,332,Google Chrome,Closed,2,0,1
+2,333,Instagram,Closed,2,0,1
+2,333,Amazon Shopping,Closed,2,0,1
+2,333,Amazon Shopping,Closed,2,0,1
+2,333,Amazon Shopping,Closed,2,0,1
+2,334,Amazon Shopping,Closed,2,0,1
+2,334,Google,Closed,2,0,1
+2,335,Google Chrome,Closed,2,0,1
+2,335,Google Chrome,Closed,2,0,1
+2,335,Google Chrome,Closed,2,0,1
+2,336,Google Chrome,Closed,2,0,3
+2,340,Facebook,Closed,2,0,4
+2,341,Facebook,Closed,2,0,4
+2,341,Gmail,Closed,2,0,4
+2,341,Google Chrome,Closed,2,0,4
+2,341,Google Chrome,Closed,2,0,4
+2,341,Gmail,Closed,2,0,4
+2,341,Google Chrome,Closed,2,0,4
+2,341,Google Chrome,Closed,2,0,4
+2,342,Google Chrome,Closed,2,0,5
+2,343,Google Chrome,Closed,2,0,5
+2,345,Google Chrome,Closed,2,0,5
+2,352,Google,Closed,2,0,0
+2,354,Google Chrome,Closed,2,0,0
+2,354,Facebook,Closed,2,0,0
+2,354,Facebook,Closed,2,0,0
+2,354,Facebook,Closed,2,0,0
+2,354,Facebook,Closed,2,0,0
+2,354,Facebook,Closed,2,0,0
+2,354,Google Chrome,Closed,2,0,0
+2,354,Gmail,Closed,2,0,0
+2,354,Google Chrome,Closed,2,0,0
+2,354,Gmail,Closed,2,0,0
+2,354,Google Chrome,Closed,2,0,0
+2,354,Gmail,Closed,2,0,0
+2,354,Google Chrome,Closed,2,0,0
+2,355,Google Chrome,Closed,2,0,0
+2,355,Google Chrome,Closed,2,0,0
+2,355,Google Chrome,Closed,2,0,0
+2,356,Google Chrome,Closed,2,0,0
+2,356,Google Play Store,Closed,2,0,0
+2,356,Google Chrome,Closed,2,0,0
+2,356,Google Chrome,Closed,2,0,0
+2,356,Google Chrome,Closed,2,0,0
+2,356,Google Chrome,Closed,2,0,0
+2,358,Google Chrome,Closed,2,0,0
+2,358,Google Chrome,Closed,2,0,0
+2,360,Google Chrome,Closed,2,0,0
+2,361,Google Chrome,Closed,2,0,1
+2,361,Google Chrome,Closed,2,0,1
+2,361,Google Chrome,Closed,2,0,1
+2,361,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,362,Google Chrome,Closed,2,0,1
+2,363,Google Chrome,Closed,2,0,1
+2,364,Google Chrome,Closed,2,0,1
+2,365,Google Chrome,Closed,2,0,1
+2,365,Google Chrome,Closed,2,0,1
+2,366,Google Chrome,Closed,2,0,1
+2,366,Facebook,Closed,2,0,1
+2,366,Facebook,Closed,2,0,1
+2,366,Facebook,Closed,2,0,1
+2,366,Facebook,Closed,2,0,1
+2,366,Instagram,Closed,2,0,1
+2,367,Facebook,Closed,2,0,1
+2,367,Facebook,Closed,2,0,1
+2,368,Google Chrome,Closed,2,0,1
+2,369,Google Chrome,Closed,2,0,1
+2,369,Google Chrome,Closed,2,0,1
+2,370,Google Chrome,Closed,2,0,1
+2,375,Instagram,Closed,2,0,4
+2,375,Instagram,Closed,2,0,4
+2,375,Facebook Messenger,Closed,2,0,4
+2,375,Instagram,Closed,2,0,4
+2,375,Gmail,Closed,2,0,4
+2,375,Gmail,Closed,2,0,4
+2,375,Gmail,Closed,2,0,4
+2,375,Gmail,Closed,2,0,4
+2,376,Facebook,Closed,2,0,4
+2,376,Google,Closed,2,0,4
+2,376,Gmail,Closed,2,0,4
+2,377,Gmail,Closed,2,0,4
+2,378,Gmail,Closed,2,0,4
+2,381,Facebook,Closed,2,0,5
+2,384,Google Chrome,Closed,2,0,0
+2,385,Google Chrome,Closed,2,0,0
+2,385,Google Chrome,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,385,Facebook,Closed,2,0,0
+2,386,Gmail,Closed,2,0,0
+2,386,Google Chrome,Closed,2,0,0
+2,386,Google Chrome,Closed,2,0,0
+2,386,Gmail,Closed,2,0,0
+2,386,Google Chrome,Closed,2,0,0
+2,386,Gmail,Closed,2,0,0
+2,387,Google Chrome,Closed,2,0,0
+2,387,Gmail,Closed,2,0,0
+2,387,Google Chrome,Closed,2,0,0
+2,387,Google Chrome,Closed,2,0,0
+2,387,Gmail,Closed,2,0,0
+2,387,Google Chrome,Closed,2,0,0
+2,387,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,388,Gmail,Closed,2,0,0
+2,388,Google Chrome,Closed,2,0,0
+2,389,Google Chrome,Closed,2,0,0
+2,391,Google Chrome,Closed,2,0,1
+2,391,Gmail,Closed,2,0,1
+3,394,Google Play Store,Closed,3,0,2
+3,394,Google Play Store,Closed,3,0,2
+3,395,Google Play Store,Closed,3,0,2
+3,396,Google Chrome,Closed,3,0,3
+3,397,Google Chrome,Closed,3,0,3
+3,397,Google Chrome,Closed,3,0,3
+3,399,Google Chrome,Closed,3,0,4
+3,399,Google Chrome,Closed,3,0,4
+3,400,Google Chrome,Closed,3,0,4
+3,401,Google Chrome,Closed,3,0,4
+3,401,Google Chrome,Closed,3,0,4
+3,401,Google Chrome,Closed,3,0,4
+3,402,Google Chrome,Closed,3,0,5
+3,403,Google Chrome,Closed,3,0,5
+3,403,Contacts,Closed,3,0,5
+3,403,Contacts,Closed,3,0,5
+3,404,Contacts,Closed,3,0,5
+3,404,Google Chrome,Closed,3,0,5
+3,404,Google Chrome,Closed,3,0,5
+3,406,Contacts,Closed,3,0,5
+3,406,Google Play Store,Closed,3,0,5
+3,407,Google Chrome,Closed,3,0,5
+3,407,Google Chrome,Closed,3,0,5
+3,407,Gmail,Closed,3,0,5
+3,407,Gmail,Closed,3,0,5
+3,407,Google Chrome,Closed,3,0,5
+3,407,Samsung Gallery,Closed,3,0,5
+3,408,Samsung Gallery,Closed,3,0,5
+3,409,Samsung Gallery,Closed,3,1,0
+3,410,Samsung Gallery,Closed,3,1,0
+3,413,Google Chrome,Closed,3,1,1
+3,414,Google Chrome,Closed,3,1,1
+3,415,Google Chrome,Closed,3,1,1
+3,415,Google Chrome,Closed,3,1,1
+3,415,Google Chrome,Closed,3,1,1
+3,415,Google Chrome,Closed,3,1,1
+3,416,Google Chrome,Closed,3,1,3
+3,416,Google Chrome,Closed,3,1,3
+3,417,Google Chrome,Closed,3,1,4
+3,418,Google Chrome,Closed,3,1,4
+3,419,Samsung Gallery,Closed,3,1,4
+3,421,Google Chrome,Closed,3,1,4
+3,421,Contacts,Closed,3,1,4
+3,423,Google Chrome,Closed,3,1,0
+3,424,YouTube,Closed,3,1,0
+3,424,YouTube,Closed,3,1,0
+3,426,Google Chrome,Closed,3,1,4
+3,427,Maps,Closed,3,1,4
+3,427,Google Chrome,Closed,3,1,4
+3,428,Maps,Closed,3,1,4
+3,429,Maps,Closed,3,1,5
+3,430,Maps,Closed,3,1,5
+3,432,Google Chrome,Closed,3,0,0
+3,435,Google Chrome,Closed,3,0,0
+3,435,Samsung Gallery,Closed,3,0,0
+3,435,Samsung Gallery,Closed,3,0,0
+3,436,Samsung Gallery,Closed,3,0,1
+3,436,Google Chrome,Closed,3,0,1
+3,437,Google Chrome,Closed,3,0,1
+3,437,Google Chrome,Closed,3,0,1
+3,438,Google Chrome,Closed,3,0,1
+3,439,Google Chrome,Closed,3,0,1
+3,440,YouTube,Closed,3,0,1
+3,440,YouTube,Closed,3,0,1
+3,441,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Google Chrome,Closed,3,0,1
+3,442,Samsung Gallery,Closed,3,0,1
+3,445,Google Chrome,Closed,3,0,5
+3,445,Google Chrome,Closed,3,0,5
+3,445,Google Chrome,Closed,3,0,5
+3,446,Samsung Gallery,Closed,3,0,5
+3,449,Google Chrome,Closed,3,0,0
+3,449,Google Chrome,Closed,3,0,0
+3,450,Google Chrome,Closed,3,0,0
+3,450,Samsung Gallery,Closed,3,0,0
+3,450,Google Chrome,Closed,3,0,0
+3,450,Samsung Gallery,Closed,3,0,0
+3,450,Google Chrome,Closed,3,0,0
+3,450,Google Chrome,Closed,3,0,0
+3,450,Google Chrome,Closed,3,0,1
+3,450,Samsung Gallery,Closed,3,0,1
+3,451,Google Chrome,Closed,3,0,1
+3,451,Samsung Gallery,Closed,3,0,1
+3,451,Samsung Gallery,Closed,3,0,1
+3,453,YouTube,Closed,3,0,1
+3,454,YouTube,Closed,3,0,1
+3,454,YouTube,Closed,3,0,1
+3,456,Google Chrome,Closed,3,0,3
+3,457,Google Chrome,Closed,3,0,4
+3,457,Google Chrome,Closed,3,0,4
+3,458,Google Chrome,Closed,3,0,4
+3,459,Contacts,Closed,3,0,4
+3,459,Contacts,Closed,3,0,4
+3,459,Contacts,Closed,3,0,4
+3,460,Google Chrome,Closed,3,0,4
+3,460,Google Chrome,Closed,3,0,4
+3,460,Google Chrome,Closed,3,0,4
+3,462,Google Chrome,Closed,3,0,4
+3,463,Google Chrome,Closed,3,0,4
+4,464,Yahoo Mail,Closed,4,0,4
+4,465,Yahoo Mail,Closed,4,0,4
+4,465,Yahoo Mail,Closed,4,0,4
+4,465,Google Chrome,Closed,4,0,4
+4,465,Google Chrome,Closed,4,0,4
+4,466,Google Chrome,Closed,4,0,4
+4,466,Google Chrome,Closed,4,0,4
+4,467,Google Chrome,Closed,4,0,5
+4,469,Google Chrome,Closed,4,0,5
+4,469,Google Play Store,Closed,4,0,5
+4,469,Google Chrome,Closed,4,0,5
+4,469,Google Chrome,Closed,4,0,5
+4,469,Google Chrome,Closed,4,0,5
+4,469,Google Play Store,Closed,4,0,5
+4,469,Google Play Store,Closed,4,0,5
+4,470,Google Play Store,Closed,4,0,5
+4,471,Google Play Store,Closed,4,0,0
+4,471,Yahoo Mail,Closed,4,0,0
+4,472,Yahoo Mail,Closed,4,0,0
+4,473,Yahoo Mail,Closed,4,0,0
+4,473,Yahoo Mail,Closed,4,0,0
+4,474,Yahoo Mail,Closed,4,0,1
+4,475,Yahoo Mail,Closed,4,0,2
+4,476,Yahoo Mail,Closed,4,0,3
+4,477,Yahoo Mail,Closed,4,0,3
+4,478,Yahoo Mail,Closed,4,0,3
+4,478,Contacts,Closed,4,0,3
+4,478,Google Chrome,Closed,4,0,3
+4,478,Google Play Store,Closed,4,0,3
+4,478,Google Chrome,Closed,4,0,3
+4,479,Google Chrome,Closed,4,0,3
+4,479,Contacts,Closed,4,0,3
+4,480,Contacts,Closed,4,0,4
+4,480,Google Chrome,Closed,4,0,4
+4,482,Google Chrome,Closed,4,0,4
+4,483,Google Chrome,Closed,4,0,4
+4,483,Google Chrome,Closed,4,0,4
+4,484,Google Play Store,Closed,4,0,4
+4,484,Google Play Store,Closed,4,0,4
+4,484,Google Chrome,Closed,4,0,4
+4,484,Google Play Store,Closed,4,0,4
+4,485,Contacts,Closed,4,0,4
+4,485,Google Chrome,Closed,4,0,4
+4,486,Google Chrome,Closed,4,0,5
+4,487,Google Chrome,Closed,4,0,5
+4,487,Google Chrome,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Chrome,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Chrome,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Play Store,Closed,4,0,5
+4,487,Google Chrome,Closed,4,0,5
+4,488,Google Chrome,Closed,4,0,5
+4,488,Google Chrome,Closed,4,0,5
+4,488,Google Chrome,Closed,4,0,5
+4,489,Google Chrome,Closed,4,0,5
+4,489,Google Chrome,Closed,4,0,5
+4,490,Google Chrome,Closed,4,0,5
+4,490,Google Chrome,Closed,4,0,5
+4,490,Google Chrome,Closed,4,0,5
+4,490,Google Chrome,Closed,4,0,5
+4,491,Google Chrome,Closed,4,0,5
+4,493,Yahoo Mail,Closed,4,0,0
+4,494,Yahoo Mail,Closed,4,0,0
+4,495,Yahoo Mail,Closed,4,0,1
+4,496,Yahoo Mail,Closed,4,1,0
+4,497,Yahoo Mail,Closed,4,1,0
+4,498,Yahoo Mail,Closed,4,1,0
+4,499,Yahoo Mail,Closed,4,1,1
+4,499,Yahoo Mail,Closed,4,1,1
+4,500,Yahoo Mail,Closed,4,1,3
+4,501,Yahoo Mail,Closed,4,1,4
+4,502,Yahoo Mail,Closed,4,1,4
+4,503,Yahoo Mail,Closed,4,1,4
+4,504,Yahoo Mail,Closed,4,1,4
+4,506,Yahoo Mail,Closed,4,1,5
+4,507,Yahoo Mail,Closed,4,1,0
+4,508,Yahoo Mail,Closed,4,1,1

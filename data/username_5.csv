@@ -1,0 +1,1271 @@
+user_id,session_id,app_name,user,week,hour_part
+0,2,Gmail,0,0,1
+0,2,Google,0,0,1
+0,2,Instagram,0,0,1
+0,2,Google Chrome,0,0,1
+0,3,Google Chrome,0,0,1
+0,3,Google Chrome,0,0,1
+0,3,Google Chrome,0,0,1
+0,4,Google Chrome,0,0,1
+0,4,Google Chrome,0,0,1
+0,5,Google Chrome,0,0,2
+0,5,Google Chrome,0,0,2
+0,6,Google Chrome,0,0,2
+0,6,Google Chrome,0,0,2
+0,7,Google Chrome,0,0,2
+0,7,Google Chrome,0,0,2
+0,10,Google Chrome,0,0,2
+0,10,Google Chrome,0,0,2
+0,11,Google Chrome,0,0,3
+0,12,Google Chrome,0,0,3
+0,13,Google Chrome,0,0,3
+0,13,Google Chrome,0,0,3
+0,14,Google Chrome,0,0,3
+0,15,Google Chrome,0,0,3
+0,15,Maps,0,0,3
+0,16,Google Chrome,0,0,3
+0,17,YouTube,0,0,3
+0,18,Google Chrome,0,0,3
+0,18,Google Chrome,0,0,3
+0,19,Google Chrome,0,0,3
+0,19,Google Chrome,0,0,3
+0,19,Facebook,0,0,3
+0,20,Facebook,0,0,3
+0,20,Maps,0,0,3
+0,20,Google,0,0,3
+0,21,Maps,0,0,4
+0,21,Google,0,0,4
+0,22,Google,0,0,4
+0,22,Google,0,0,4
+0,23,Google,0,0,4
+0,24,Google,0,0,4
+0,24,Google,0,0,4
+0,25,Google,0,0,4
+0,27,Google,0,0,5
+0,27,Google,0,0,5
+0,28,Google,0,0,5
+0,28,YouTube,0,0,5
+0,28,Maps,0,0,5
+0,28,Google,0,0,5
+0,29,Google,0,0,5
+0,30,Gmail,0,0,5
+0,31,Maps,0,0,5
+0,31,Gmail,0,0,5
+0,31,Gmail,0,0,5
+0,31,Maps,0,0,5
+0,31,Gmail,0,0,5
+0,31,Gmail,0,0,5
+0,31,Google,0,0,5
+0,31,Google,0,0,5
+0,31,Google Chrome,0,0,5
+0,31,Google Chrome,0,0,5
+0,31,Google,0,0,5
+0,31,Google,0,0,5
+0,31,Google,0,0,5
+0,31,Google,0,0,5
+0,31,Google,0,0,5
+0,31,Google Chrome,0,0,5
+0,32,Google Chrome,0,0,5
+0,32,Google,0,0,5
+0,41,Google,0,0,1
+0,41,Gmail,0,0,1
+0,41,Google,0,0,1
+0,41,Instagram,0,0,1
+0,41,Facebook,0,0,1
+0,41,Instagram,0,0,1
+0,41,Google,0,0,1
+0,41,Google,0,0,1
+0,42,Gmail,0,0,4
+0,43,Google,0,0,5
+0,43,Google,0,0,5
+0,44,Gmail,0,0,5
+0,44,Gmail,0,0,5
+0,44,Gmail,0,0,5
+0,44,Google,0,0,5
+0,44,Google Chrome,0,0,5
+0,44,Google Chrome,0,0,5
+0,44,Google,0,0,5
+0,44,Google,0,0,5
+0,44,Google,0,0,5
+0,44,Google,0,0,5
+0,44,Google Chrome,0,0,5
+0,44,Google Chrome,0,0,5
+0,44,Google,0,0,5
+0,44,Google,0,0,5
+0,44,Google,0,0,5
+0,44,Maps,0,0,5
+0,46,Maps,0,0,5
+0,46,Google,0,0,5
+0,48,Google,0,0,0
+0,48,Google,0,0,0
+0,50,Google,0,0,0
+0,50,Maps,0,0,0
+0,50,Google Chrome,0,0,0
+0,51,Google Chrome,0,0,0
+0,51,Google Chrome,0,0,0
+0,51,Google Chrome,0,0,0
+0,54,Google Chrome,0,0,1
+0,55,Google Chrome,0,0,1
+0,55,Google,0,0,1
+0,55,Google,0,0,1
+0,55,Google Chrome,0,0,1
+0,55,Google,0,0,1
+0,55,Google,0,0,1
+0,55,Google Chrome,0,0,1
+0,55,Amazon Shopping,0,0,1
+0,56,Google Chrome,0,0,1
+0,57,Google,0,0,1
+0,62,Facebook Messenger,0,0,2
+0,71,Maps,0,0,3
+0,71,Google,0,0,3
+0,71,Google,0,0,3
+0,72,Google,0,0,3
+0,72,Maps,0,0,3
+0,72,Google,0,0,3
+0,73,Gmail,0,0,3
+0,74,Google,0,0,3
+0,74,Gmail,0,0,3
+0,74,Maps,0,0,3
+0,74,Google Chrome,0,0,3
+0,74,Google Chrome,0,0,3
+0,74,Google Chrome,0,0,3
+0,74,Google Chrome,0,0,3
+0,74,Google,0,0,3
+0,74,Google,0,0,3
+0,74,Google,0,0,3
+0,78,Maps,0,0,3
+0,78,Google,0,0,3
+0,79,Maps,0,0,3
+0,80,Facebook,0,0,3
+0,81,Instagram,0,0,3
+0,81,Google,0,0,3
+0,81,Google,0,0,3
+0,82,Google,0,0,3
+0,83,Instagram,0,0,4
+0,83,Instagram,0,0,4
+0,84,Instagram,0,0,4
+0,85,Instagram,0,0,4
+0,86,Instagram,0,0,4
+0,87,Maps,0,0,4
+0,87,Instagram,0,0,4
+0,87,Instagram,0,0,4
+0,87,Google,0,0,4
+0,87,Google,0,0,4
+0,87,Google,0,0,4
+0,87,Google Play Store,0,0,4
+0,88,Google Play Store,0,0,4
+0,88,Google,0,0,4
+0,88,Google,0,0,4
+0,88,Google Chrome,0,0,4
+0,89,Google Chrome,0,0,4
+0,89,Google,0,0,4
+0,89,Google,0,0,4
+0,91,Google,0,0,4
+0,91,Google,0,0,4
+0,92,Google,0,0,4
+0,92,Google,0,0,4
+0,92,Google Chrome,0,0,4
+0,92,Google Chrome,0,0,4
+0,93,Google Chrome,0,0,4
+0,94,Google Chrome,0,0,4
+0,94,Google Chrome,0,0,4
+0,95,Maps,0,0,4
+0,95,Google Chrome,0,0,4
+0,95,Google Chrome,0,0,4
+0,95,Google,0,0,4
+0,95,Google Play Store,0,0,4
+0,95,Google Play Store,0,0,4
+0,98,Gmail,0,0,1
+0,102,Gmail,0,0,2
+0,102,Facebook Messenger,0,0,2
+0,106,Google,0,0,3
+0,107,Google,0,0,3
+0,108,Google,0,0,3
+0,109,Google,0,0,3
+0,109,Gmail,0,0,3
+0,109,Gmail,0,0,3
+0,109,Google Chrome,0,0,3
+0,109,Facebook Messenger,0,0,3
+0,109,Gmail,0,0,3
+0,109,Google,0,0,3
+0,109,Google,0,0,3
+0,109,Facebook Messenger,0,0,3
+0,109,Facebook Messenger,0,0,3
+0,109,Facebook Messenger,0,0,3
+0,109,Google,0,0,3
+0,109,Google,0,0,3
+0,109,Instagram,0,0,3
+0,109,Instagram,0,0,3
+0,110,Maps,0,0,3
+0,110,Instagram,0,0,3
+0,110,Gmail,0,0,3
+0,110,Gmail,0,0,3
+0,110,Gmail,0,0,3
+0,110,Gmail,0,0,3
+0,111,Gmail,0,0,3
+0,111,Gmail,0,0,3
+0,112,Google,0,0,3
+0,113,Gmail,0,0,3
+0,114,Google,0,0,3
+0,114,Google,0,0,3
+0,114,Gmail,0,0,3
+0,115,Gmail,0,0,4
+0,116,Gmail,0,0,4
+0,116,Gmail,0,0,4
+0,116,Gmail,0,0,4
+0,116,Gmail,0,0,4
+0,116,Google,0,0,4
+0,117,Google,0,0,4
+0,119,Google,0,0,4
+0,119,Facebook Messenger,0,0,4
+0,119,Facebook Messenger,0,0,4
+0,119,Google,0,0,4
+0,119,Facebook Messenger,0,0,4
+0,120,Facebook Messenger,0,0,4
+0,120,Google,0,0,4
+0,120,Google Chrome,0,0,4
+0,120,Google Chrome,0,0,4
+0,121,Google Chrome,0,0,4
+0,121,Google Chrome,0,0,4
+0,122,Google Chrome,0,0,4
+0,122,Google Chrome,0,0,4
+0,122,Google Chrome,0,0,4
+0,123,Facebook,0,0,4
+0,124,Google Chrome,0,0,5
+0,124,Google Chrome,0,0,5
+0,124,Gmail,0,0,5
+0,124,Google Chrome,0,0,5
+0,125,Google,0,0,5
+0,125,Google Chrome,0,0,5
+0,125,Google Chrome,0,0,5
+0,126,Google Chrome,0,0,5
+0,126,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Gmail,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,127,Google Chrome,0,0,5
+0,128,Google Chrome,0,0,5
+0,128,Google,0,0,5
+0,128,Google,0,0,5
+0,128,Google,0,0,5
+0,128,Google,0,0,5
+0,128,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google,0,0,5
+0,129,Google,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google,0,0,5
+0,129,Instagram,0,0,5
+0,129,Instagram,0,0,5
+0,129,Instagram,0,0,5
+0,129,Instagram,0,0,5
+0,129,Instagram,0,0,5
+0,129,Google,0,0,5
+0,129,Google,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google,0,0,5
+0,129,Google,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,129,Google Chrome,0,0,5
+0,130,Google Chrome,0,0,5
+0,130,Google Chrome,0,0,5
+0,130,Google,0,0,5
+0,130,Google,0,0,5
+0,130,Google,0,0,5
+0,131,Gmail,0,0,0
+0,132,Gmail,0,0,0
+0,133,Google,0,0,0
+0,133,Google,0,0,1
+0,134,Google,0,0,1
+0,134,Google,0,0,1
+0,134,Google,0,0,1
+0,134,Google Chrome,0,0,1
+0,142,Facebook,0,0,2
+0,145,Google,0,0,3
+0,145,Google,0,0,3
+0,145,Google,0,0,3
+0,145,Google Chrome,0,0,3
+0,145,Gmail,0,0,3
+0,145,Maps,0,0,3
+0,146,Google Chrome,0,0,3
+0,147,Maps,0,0,3
+0,147,Google Chrome,0,0,3
+0,147,Google Chrome,0,0,3
+0,148,Google Chrome,0,0,3
+0,149,Maps,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google,0,0,3
+0,149,Google,0,0,3
+0,149,Instagram,0,0,3
+0,149,Instagram,0,0,3
+0,149,Google,0,0,3
+0,149,Google,0,0,3
+0,149,Google,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google Chrome,0,0,3
+0,149,Google,0,0,3
+0,149,Facebook,0,0,3
+0,149,Google,0,0,3
+0,149,Google,0,0,3
+0,150,Facebook,0,0,3
+0,151,Google,0,0,3
+0,151,Google,0,0,3
+0,151,Google,0,0,3
+0,151,Google Chrome,0,0,3
+0,151,Google Chrome,0,0,3
+0,151,Google Chrome,0,0,3
+0,151,Google,0,0,3
+0,151,Google,0,0,3
+0,151,Google Chrome,0,0,3
+0,151,Google Chrome,0,0,3
+0,152,Google,0,0,3
+0,152,Google,0,0,4
+0,152,Google,0,0,4
+0,152,Google Chrome,0,0,4
+0,152,Google,0,0,4
+0,152,Google Chrome,0,0,4
+0,152,Google Chrome,0,0,4
+0,153,Google Chrome,0,0,4
+0,153,Gmail,0,0,4
+0,153,Google Chrome,0,0,4
+0,153,Google,0,0,4
+0,154,Google,0,0,4
+0,156,Gmail,0,0,5
+0,158,Google,0,0,5
+0,158,Google,0,0,5
+0,159,Maps,0,0,5
+0,159,Google,0,0,5
+0,161,Maps,0,0,5
+0,162,Gmail,0,0,5
+0,163,Maps,0,0,5
+0,163,Maps,0,0,5
+0,164,Facebook,0,0,5
+0,164,Google Chrome,0,0,5
+0,164,Maps,0,0,5
+0,164,Google Chrome,0,0,5
+0,164,Google Chrome,0,0,5
+0,164,Maps,0,0,5
+0,164,Google Chrome,0,0,5
+0,164,Google,0,0,5
+0,165,Maps,0,1,0
+0,165,Google,0,1,0
+0,166,Google,0,1,0
+0,166,Google Chrome,0,1,0
+0,166,Google Chrome,0,1,0
+0,167,Google Chrome,0,1,0
+0,167,Google Chrome,0,1,0
+0,168,Maps,0,1,0
+0,168,Google Chrome,0,1,0
+0,168,Google Chrome,0,1,0
+0,168,Google Chrome,0,1,0
+0,168,Google,0,1,0
+0,168,Google,0,1,0
+0,168,Facebook,0,1,0
+0,168,Facebook,0,1,0
+0,168,Facebook,0,1,0
+0,169,Facebook,0,1,0
+0,169,Google,0,1,0
+0,169,Google,0,1,0
+0,169,Google,0,1,0
+0,170,Google,0,1,0
+0,170,Google,0,1,0
+0,171,Google,0,1,0
+0,171,Google,0,1,0
+0,171,Google,0,1,0
+0,172,Google,0,1,0
+0,183,Google,0,1,3
+0,183,Gmail,0,1,3
+0,184,Facebook,0,1,3
+0,188,Instagram,0,0,5
+0,190,Maps,0,0,5
+0,192,Gmail,0,0,5
+0,194,Maps,0,0,5
+0,194,Gmail,0,0,5
+0,194,Google,0,0,5
+0,195,Gmail,0,0,5
+0,195,Google,0,0,5
+0,195,Google,0,0,5
+0,196,Gmail,0,0,5
+0,196,Gmail,0,0,5
+0,196,Google,0,0,5
+0,197,Maps,0,0,5
+0,198,Maps,0,0,0
+0,198,Google,0,0,0
+0,199,Google,0,0,0
+0,199,Google,0,0,0
+0,200,Google,0,0,0
+0,203,Gmail,0,0,0
+0,204,Facebook Messenger,0,0,0
+0,205,Gmail,0,0,1
+0,205,Maps,0,0,1
+0,206,Gmail,0,0,1
+0,206,Gmail,0,0,1
+0,206,Google,0,0,1
+0,206,Facebook,0,0,1
+0,206,Facebook,0,0,1
+0,206,Google,0,0,1
+0,206,Facebook,0,0,1
+0,206,Facebook,0,0,1
+0,206,Facebook,0,0,1
+0,206,Google,0,0,1
+0,206,Instagram,0,0,1
+0,206,Instagram,0,0,1
+0,206,Google,0,0,1
+0,206,Google,0,0,1
+0,207,YouTube,0,0,1
+0,207,Google,0,0,1
+0,213,Google Play Store,0,0,2
+0,217,Google,0,0,2
+0,219,Maps,0,0,2
+0,219,Google,0,0,2
+0,220,Google,0,0,2
+0,221,Google,0,0,2
+0,222,Maps,0,0,2
+0,224,Google,0,0,3
+0,224,Google,0,0,3
+0,224,Instagram,0,0,3
+0,224,Instagram,0,0,3
+0,224,Google,0,0,3
+0,224,Google,0,0,3
+0,224,Google,0,0,3
+0,224,Gmail,0,0,3
+0,224,Google,0,0,3
+0,224,Google Chrome,0,0,3
+0,224,Google Chrome,0,0,3
+0,224,Google Chrome,0,0,3
+0,225,Google Chrome,0,0,3
+0,225,Google,0,0,3
+0,225,Google,0,0,3
+0,225,Gmail,0,0,3
+0,226,Gmail,0,0,3
+0,226,Maps,0,0,3
+0,228,Gmail,0,0,3
+0,229,Gmail,0,0,3
+0,229,Google,0,0,3
+0,229,Google Play Store,0,0,3
+0,229,Google,0,0,3
+0,229,Google Play Store,0,0,3
+0,229,Google,0,0,3
+0,230,Google,0,0,4
+0,231,Google,0,0,4
+0,231,Google,0,0,4
+0,232,Google,0,0,4
+0,232,Google,0,0,4
+0,232,Google,0,0,4
+0,233,Google,0,0,4
+0,234,Google,0,0,4
+0,234,Google,0,0,4
+0,234,Google,0,0,4
+0,234,Google,0,0,4
+0,237,Google,0,0,4
+0,237,Google,0,0,4
+0,237,Google,0,0,4
+0,238,Google,0,0,4
+0,239,Google,0,0,4
+0,240,Google,0,0,4
+0,240,Google,0,0,4
+0,240,Google,0,0,4
+0,240,Google,0,0,4
+0,240,Facebook,0,0,4
+0,240,Facebook,0,0,4
+0,241,Google,0,0,4
+0,241,Gmail,0,0,4
+0,241,Google,0,0,4
+1,242,Google,1,1,0
+1,244,Google,1,1,1
+1,245,Google,1,1,1
+1,246,Google,1,1,1
+1,246,Instagram,1,1,1
+1,246,Instagram,1,1,1
+1,246,Google,1,1,1
+1,246,Google Chrome,1,1,1
+1,246,Google Chrome,1,1,1
+1,246,Google,1,1,1
+1,247,Facebook Messenger,1,1,1
+1,247,Facebook,1,1,1
+1,247,Google,1,1,1
+1,247,Google,1,1,1
+1,247,Google Chrome,1,1,1
+1,247,Facebook Messenger,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Twitter,1,1,1
+1,247,Google,1,1,1
+1,247,Twitter,1,1,1
+1,247,Google,1,1,1
+1,247,Google Chrome,1,1,1
+1,247,Google,1,1,1
+1,247,Google Chrome,1,1,1
+1,247,Twitter,1,1,1
+1,248,Facebook Messenger,1,1,1
+1,248,Facebook Messenger,1,1,1
+1,248,Facebook,1,1,1
+1,248,Google,1,1,1
+1,248,Facebook Messenger,1,1,1
+1,249,Twitter,1,1,3
+1,250,Facebook Messenger,1,1,3
+1,250,Facebook Messenger,1,1,3
+1,250,Google,1,1,3
+1,250,Facebook Messenger,1,1,3
+1,250,Facebook,1,1,3
+1,250,Facebook,1,1,3
+1,250,Facebook,1,1,3
+1,250,Google Play Store,1,1,3
+1,250,YouTube,1,1,3
+1,250,Google,1,1,3
+1,251,Google,1,1,4
+1,251,Google,1,1,4
+1,251,Google Chrome,1,1,4
+1,251,Google Chrome,1,1,4
+1,251,Facebook Messenger,1,1,4
+1,251,Facebook Messenger,1,1,4
+1,251,Facebook Messenger,1,1,4
+1,251,Facebook Messenger,1,1,4
+1,251,Facebook Messenger,1,1,4
+1,252,Facebook Messenger,1,1,4
+1,252,Facebook Messenger,1,1,4
+1,252,Facebook Messenger,1,1,4
+1,253,Facebook Messenger,1,1,4
+1,253,Google,1,1,4
+1,253,Facebook Messenger,1,1,4
+1,253,Google,1,1,4
+1,253,Facebook Messenger,1,1,4
+1,255,Facebook Messenger,1,1,4
+1,255,YouTube,1,1,4
+1,255,YouTube,1,1,4
+1,255,Facebook,1,1,4
+1,255,Facebook,1,1,4
+1,255,Facebook,1,1,4
+1,255,Facebook,1,1,4
+1,256,Google,1,1,4
+1,256,Facebook,1,1,4
+1,257,Google,1,1,4
+1,258,YouTube,1,1,4
+1,258,YouTube,1,1,4
+1,260,Google,1,1,4
+1,260,Google,1,1,4
+1,260,Google Chrome,1,1,4
+1,261,Google Chrome,1,1,4
+1,262,Google,1,1,4
+1,265,Google,1,1,4
+1,265,Google,1,1,4
+1,270,Twitter,1,1,5
+1,271,Google,1,1,5
+1,272,Google,1,1,5
+1,272,Google,1,1,5
+1,272,Facebook Messenger,1,1,5
+1,272,Facebook,1,1,5
+1,272,Facebook,1,1,5
+1,272,Facebook,1,1,5
+1,272,Facebook,1,1,5
+1,273,Facebook,1,1,5
+1,273,Facebook,1,1,5
+1,275,Google,1,1,5
+1,275,Google Chrome,1,1,5
+1,275,Google,1,1,5
+1,275,Google Chrome,1,1,5
+1,275,Google,1,1,5
+1,276,Google,1,1,5
+1,277,Google,1,1,5
+1,279,Google,1,1,0
+1,279,Facebook,1,1,0
+1,279,Google Chrome,1,1,0
+1,279,Facebook,1,1,0
+1,281,Facebook,1,1,0
+1,281,Instagram,1,1,0
+1,282,Google Play Store,1,1,0
+1,282,Google Chrome,1,1,0
+1,282,Google Chrome,1,1,0
+1,283,Google,1,1,0
+1,284,Google,1,1,1
+1,285,Google,1,1,1
+1,285,Google,1,1,1
+1,286,Twitter,1,1,1
+1,286,Google,1,1,1
+1,286,Instagram,1,1,1
+1,286,Twitter,1,1,1
+1,286,Twitter,1,1,1
+1,286,Twitter,1,1,1
+1,286,Instagram,1,1,1
+1,286,Google,1,1,1
+1,286,Instagram,1,1,1
+1,286,Google Chrome,1,1,1
+1,286,Google Chrome,1,1,1
+1,286,Instagram,1,1,1
+1,286,Instagram,1,1,1
+1,286,Instagram,1,1,1
+1,287,Facebook Messenger,1,1,3
+1,287,Instagram,1,1,3
+1,287,Instagram,1,1,3
+1,287,Instagram,1,1,3
+1,287,Facebook Messenger,1,1,3
+1,287,Facebook Messenger,1,1,3
+1,287,Instagram,1,1,3
+1,287,Facebook Messenger,1,1,3
+1,287,Instagram,1,1,3
+1,287,Instagram,1,1,3
+1,288,Facebook Messenger,1,1,3
+1,289,Google,1,1,3
+1,292,Google,1,1,4
+1,292,Twitter,1,1,4
+1,293,Google,1,1,4
+1,293,Google,1,1,4
+1,293,Google,1,1,4
+1,293,Google Chrome,1,1,4
+1,293,Google Chrome,1,1,4
+1,293,Google,1,1,4
+1,294,Google,1,0,3
+1,295,Google,1,0,3
+1,295,Google,1,0,3
+1,295,Google Chrome,1,0,3
+1,295,Google Chrome,1,0,3
+1,295,Google,1,0,3
+1,296,Google,1,0,3
+1,297,Facebook Messenger,1,0,3
+1,297,Google Play Store,1,0,3
+1,297,Instagram,1,0,3
+1,297,Instagram,1,0,3
+1,297,Instagram,1,0,3
+1,297,Instagram,1,0,3
+1,297,Instagram,1,0,3
+1,297,Facebook Messenger,1,0,3
+1,298,Google Play Store,1,0,3
+1,298,Google Play Store,1,0,3
+1,298,Google,1,0,3
+1,298,Google Play Store,1,0,3
+1,298,Google,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google,1,0,3
+1,298,Google,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google Chrome,1,0,3
+1,298,Google,1,0,3
+1,299,Facebook Messenger,1,0,3
+1,299,Facebook Messenger,1,0,3
+1,299,Facebook Messenger,1,0,3
+1,300,Google,1,0,4
+1,300,Google,1,0,4
+1,300,Google Chrome,1,0,4
+1,300,Google,1,0,4
+1,301,Google Play Store,1,0,4
+1,302,Facebook Messenger,1,0,4
+1,303,Google Chrome,1,0,4
+1,304,Google Chrome,1,0,4
+1,304,Google Chrome,1,0,4
+1,306,Facebook Messenger,1,0,5
+1,307,Facebook Messenger,1,0,5
+1,307,Google,1,0,5
+1,307,Google,1,0,5
+1,307,Google Chrome,1,0,5
+1,307,Google,1,0,5
+1,307,Google Chrome,1,0,5
+1,307,Google Chrome,1,0,5
+1,307,Google Chrome,1,0,5
+1,307,YouTube,1,0,5
+1,307,YouTube,1,0,5
+1,308,Facebook Messenger,1,0,5
+1,308,Facebook Messenger,1,0,5
+1,309,Facebook Messenger,1,0,5
+1,310,Facebook Messenger,1,0,5
+1,311,Facebook Messenger,1,0,5
+1,311,Facebook,1,0,5
+1,312,Facebook Messenger,1,0,5
+1,313,Google,1,0,5
+1,315,Google,1,0,0
+1,315,Google Chrome,1,0,0
+1,315,Google Chrome,1,0,0
+1,316,Google Chrome,1,0,0
+1,317,Google,1,0,0
+1,317,Google Chrome,1,0,0
+1,319,Twitter,1,0,0
+1,321,Google,1,0,0
+1,321,Google,1,0,0
+1,322,Instagram,1,0,1
+1,322,Instagram,1,0,1
+1,322,Google,1,0,1
+1,322,Google,1,0,1
+1,322,YouTube,1,0,1
+1,322,YouTube,1,0,1
+1,322,YouTube,1,0,1
+1,322,Google,1,0,1
+1,322,Google Chrome,1,0,1
+1,322,Google Chrome,1,0,1
+1,322,Facebook,1,0,1
+1,322,Google,1,0,1
+1,323,Google Chrome,1,0,1
+1,323,Google Chrome,1,0,1
+1,323,Google,1,0,1
+1,324,Google Chrome,1,0,1
+1,324,Google,1,0,1
+1,324,Google,1,0,1
+1,324,Google Chrome,1,0,1
+1,324,Google Chrome,1,0,1
+1,324,Google,1,0,1
+1,324,Google,1,0,1
+1,324,Google Chrome,1,0,1
+1,327,Google,1,0,1
+1,329,Twitter,1,0,1
+1,329,Google Play Store,1,0,1
+1,329,Google,1,0,1
+1,329,Google,1,0,1
+1,329,Google Play Store,1,0,1
+2,331,Gmail,2,0,1
+2,331,Gmail,2,0,1
+2,331,Facebook,2,0,1
+2,332,Facebook,2,0,1
+2,332,Facebook,2,0,1
+2,332,Google Chrome,2,0,1
+2,332,Facebook,2,0,1
+2,332,Google Chrome,2,0,1
+2,332,Instagram,2,0,1
+2,333,Instagram,2,0,1
+2,333,Amazon Shopping,2,0,1
+2,333,Amazon Shopping,2,0,1
+2,333,Amazon Shopping,2,0,1
+2,334,Amazon Shopping,2,0,1
+2,334,Google,2,0,1
+2,334,Google Chrome,2,0,1
+2,335,Google Chrome,2,0,1
+2,335,Google Chrome,2,0,1
+2,335,Google Chrome,2,0,1
+2,335,Google Chrome,2,0,1
+2,335,Google Chrome,2,0,1
+2,336,Gmail,2,0,3
+2,336,Instagram,2,0,3
+2,336,Google Chrome,2,0,3
+2,337,Gmail,2,0,4
+2,337,Amazon Shopping,2,0,4
+2,337,Gmail,2,0,4
+2,339,Gmail,2,0,4
+2,340,Gmail,2,0,4
+2,340,Gmail,2,0,4
+2,340,Facebook,2,0,4
+2,340,Facebook,2,0,4
+2,341,Facebook,2,0,4
+2,341,Gmail,2,0,4
+2,341,Facebook,2,0,4
+2,341,Gmail,2,0,4
+2,341,Gmail,2,0,4
+2,341,Google Chrome,2,0,4
+2,341,Google Chrome,2,0,4
+2,341,Gmail,2,0,4
+2,341,Google Chrome,2,0,4
+2,341,Google Chrome,2,0,4
+2,342,Google Chrome,2,0,5
+2,342,Gmail,2,0,5
+2,343,Gmail,2,0,5
+2,343,Google Chrome,2,0,5
+2,343,Google Chrome,2,0,5
+2,344,Gmail,2,0,5
+2,345,Google Chrome,2,0,5
+2,345,Gmail,2,0,5
+2,345,Gmail,2,0,5
+2,345,Maps,2,0,5
+2,346,Amazon Shopping,2,0,5
+2,347,Gmail,2,0,5
+2,347,YouTube,2,0,5
+2,348,Gmail,2,0,0
+2,352,Google,2,0,0
+2,352,Google,2,0,0
+2,353,Google Play Store,2,0,0
+2,354,Google Chrome,2,0,0
+2,354,Facebook,2,0,0
+2,354,Facebook,2,0,0
+2,354,Facebook,2,0,0
+2,354,Facebook,2,0,0
+2,354,Facebook,2,0,0
+2,354,Google Chrome,2,0,0
+2,354,Google Chrome,2,0,0
+2,354,Gmail,2,0,0
+2,354,Gmail,2,0,0
+2,354,Google Chrome,2,0,0
+2,354,Gmail,2,0,0
+2,354,Google Chrome,2,0,0
+2,354,Google Chrome,2,0,0
+2,354,Gmail,2,0,0
+2,354,Google Chrome,2,0,0
+2,355,Google Chrome,2,0,0
+2,355,Google Chrome,2,0,0
+2,355,Google Chrome,2,0,0
+2,356,Google Chrome,2,0,0
+2,356,Google Play Store,2,0,0
+2,356,Google Chrome,2,0,0
+2,356,Google Chrome,2,0,0
+2,356,Google Chrome,2,0,0
+2,356,Google Chrome,2,0,0
+2,356,Gmail,2,0,0
+2,356,Google Chrome,2,0,0
+2,356,Google Chrome,2,0,0
+2,358,Google Chrome,2,0,0
+2,358,Google Chrome,2,0,0
+2,358,Google Chrome,2,0,0
+2,359,Gmail,2,0,0
+2,360,Google Chrome,2,0,0
+2,361,Instagram,2,0,1
+2,361,Google Chrome,2,0,1
+2,361,Google Chrome,2,0,1
+2,361,Google Chrome,2,0,1
+2,361,Google Chrome,2,0,1
+2,361,Google Chrome,2,0,1
+2,361,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,362,Google Chrome,2,0,1
+2,363,Google Chrome,2,0,1
+2,363,Google Chrome,2,0,1
+2,364,Google Chrome,2,0,1
+2,364,Google Chrome,2,0,1
+2,365,Google Chrome,2,0,1
+2,365,Google Chrome,2,0,1
+2,365,Google Chrome,2,0,1
+2,365,Google Chrome,2,0,1
+2,366,Google Chrome,2,0,1
+2,366,Google Chrome,2,0,1
+2,366,Facebook,2,0,1
+2,366,Facebook,2,0,1
+2,366,Facebook,2,0,1
+2,366,Facebook,2,0,1
+2,366,Facebook,2,0,1
+2,366,Instagram,2,0,1
+2,366,Instagram,2,0,1
+2,367,Instagram,2,0,1
+2,367,Facebook,2,0,1
+2,367,Facebook,2,0,1
+2,367,Google Chrome,2,0,1
+2,368,Google Chrome,2,0,1
+2,368,Instagram,2,0,1
+2,369,Google Chrome,2,0,1
+2,369,Google Chrome,2,0,1
+2,369,Google Chrome,2,0,1
+2,370,Google Chrome,2,0,1
+2,371,Facebook,2,0,3
+2,371,Gmail,2,0,3
+2,371,Instagram,2,0,3
+2,371,Maps,2,0,3
+2,371,Google Play Store,2,0,3
+2,372,Gmail,2,0,3
+2,373,Gmail,2,0,3
+2,375,Instagram,2,0,4
+2,375,Gmail,2,0,4
+2,375,Google,2,0,4
+2,375,Gmail,2,0,4
+2,375,Instagram,2,0,4
+2,375,Instagram,2,0,4
+2,375,Facebook Messenger,2,0,4
+2,375,Instagram,2,0,4
+2,375,Gmail,2,0,4
+2,375,Gmail,2,0,4
+2,375,Gmail,2,0,4
+2,375,Gmail,2,0,4
+2,375,Gmail,2,0,4
+2,376,Gmail,2,0,4
+2,376,Facebook,2,0,4
+2,376,Facebook,2,0,4
+2,376,Google,2,0,4
+2,376,Gmail,2,0,4
+2,376,Gmail,2,0,4
+2,377,Gmail,2,0,4
+2,378,Gmail,2,0,4
+2,381,Facebook,2,0,5
+2,382,Instagram,2,0,5
+2,382,Gmail,2,0,5
+2,382,Amazon Shopping,2,0,5
+2,384,Instagram,2,0,0
+2,384,Google Chrome,2,0,0
+2,385,Google Chrome,2,0,0
+2,385,Google Chrome,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,385,Facebook,2,0,0
+2,386,Gmail,2,0,0
+2,386,Gmail,2,0,0
+2,386,Google Chrome,2,0,0
+2,386,Google Chrome,2,0,0
+2,386,Gmail,2,0,0
+2,386,Google Chrome,2,0,0
+2,386,Gmail,2,0,0
+2,387,Google Chrome,2,0,0
+2,387,Gmail,2,0,0
+2,387,Gmail,2,0,0
+2,387,Google Chrome,2,0,0
+2,387,Google Chrome,2,0,0
+2,387,Gmail,2,0,0
+2,387,Google Chrome,2,0,0
+2,387,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Instagram,2,0,0
+2,388,Google,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,388,Gmail,2,0,0
+2,388,Google Chrome,2,0,0
+2,389,Google Chrome,2,0,0
+2,389,Google Chrome,2,0,0
+2,389,Google Chrome,2,0,0
+2,390,Gmail,2,0,1
+2,391,Google Chrome,2,0,1
+2,391,Gmail,2,0,1
+3,393,Google Play Store,3,0,2
+3,394,Google Play Store,3,0,2
+3,394,Google Play Store,3,0,2
+3,395,Google Play Store,3,0,2
+3,396,Google Chrome,3,0,3
+3,396,Google Chrome,3,0,3
+3,397,Google Chrome,3,0,3
+3,397,Google Chrome,3,0,3
+3,398,YouTube,3,0,4
+3,398,Google Chrome,3,0,4
+3,399,Google Chrome,3,0,4
+3,399,Google Chrome,3,0,4
+3,399,Google Chrome,3,0,4
+3,400,Google Chrome,3,0,4
+3,400,Google Chrome,3,0,4
+3,401,Google Chrome,3,0,4
+3,401,Google Chrome,3,0,4
+3,401,Google Chrome,3,0,4
+3,402,Google Chrome,3,0,5
+3,403,Google Chrome,3,0,5
+3,403,Contacts,3,0,5
+3,403,Contacts,3,0,5
+3,404,Google Chrome,3,0,5
+3,404,Contacts,3,0,5
+3,404,Google Chrome,3,0,5
+3,404,Google Chrome,3,0,5
+3,406,Contacts,3,0,5
+3,406,Google Play Store,3,0,5
+3,406,Google Play Store,3,0,5
+3,406,Google Play Store,3,0,5
+3,407,Google Chrome,3,0,5
+3,407,Google Chrome,3,0,5
+3,407,Gmail,3,0,5
+3,407,Gmail,3,0,5
+3,407,Google Chrome,3,0,5
+3,407,Google Chrome,3,0,5
+3,407,Samsung Gallery,3,0,5
+3,408,Samsung Gallery,3,0,5
+3,409,Samsung Gallery,3,1,0
+3,410,Samsung Gallery,3,1,0
+3,413,Google Chrome,3,1,1
+3,413,Google Chrome,3,1,1
+3,414,Google Chrome,3,1,1
+3,415,Google Chrome,3,1,1
+3,415,Google Chrome,3,1,1
+3,415,Google Chrome,3,1,1
+3,415,Google Chrome,3,1,1
+3,415,Google Chrome,3,1,1
+3,415,Google Chrome,3,1,1
+3,416,Google Chrome,3,1,3
+3,416,Google Chrome,3,1,3
+3,416,YouTube,3,1,3
+3,417,Google Chrome,3,1,3
+3,417,Google Chrome,3,1,4
+3,418,Google Chrome,3,1,4
+3,419,Samsung Gallery,3,1,4
+3,421,Google Chrome,3,1,4
+3,421,Google Chrome,3,1,4
+3,421,Contacts,3,1,4
+3,423,Google Chrome,3,1,0
+3,424,YouTube,3,1,0
+3,424,YouTube,3,1,0
+3,426,Google Chrome,3,1,4
+3,426,Google Chrome,3,1,4
+3,426,Maps,3,1,4
+3,427,Maps,3,1,4
+3,427,Google Chrome,3,1,4
+3,428,Maps,3,1,4
+3,429,Maps,3,1,5
+3,430,Maps,3,1,5
+3,432,Google Chrome,3,0,0
+3,432,Google Chrome,3,0,0
+3,435,Google Chrome,3,0,0
+3,435,Google Chrome,3,0,0
+3,435,Samsung Gallery,3,0,0
+3,435,Samsung Gallery,3,0,0
+3,435,Samsung Gallery,3,0,0
+3,436,Samsung Gallery,3,0,1
+3,436,Google Chrome,3,0,1
+3,436,Google Chrome,3,0,1
+3,437,Google Chrome,3,0,1
+3,437,Google Chrome,3,0,1
+3,437,Google Chrome,3,0,1
+3,437,Google Chrome,3,0,1
+3,438,Google Chrome,3,0,1
+3,439,Google Chrome,3,0,1
+3,439,Google Chrome,3,0,1
+3,440,YouTube,3,0,1
+3,440,YouTube,3,0,1
+3,441,Google Chrome,3,0,1
+3,441,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Google Chrome,3,0,1
+3,442,Samsung Gallery,3,0,1
+3,443,Google Chrome,3,0,4
+3,444,Google Chrome,3,0,5
+3,444,Google Chrome,3,0,5
+3,445,Google Chrome,3,0,5
+3,445,Google Chrome,3,0,5
+3,445,Google Chrome,3,0,5
+3,446,Samsung Gallery,3,0,5
+3,449,Google Chrome,3,0,0
+3,449,Google Chrome,3,0,0
+3,449,Google Chrome,3,0,0
+3,449,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Samsung Gallery,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Samsung Gallery,3,0,0
+3,450,Samsung Gallery,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,0
+3,450,Google Chrome,3,0,1
+3,450,Google Chrome,3,0,1
+3,450,Samsung Gallery,3,0,1
+3,450,Samsung Gallery,3,0,1
+3,450,Google Chrome,3,0,1
+3,451,Google Chrome,3,0,1
+3,451,Google Chrome,3,0,1
+3,451,Samsung Gallery,3,0,1
+3,451,Samsung Gallery,3,0,1
+3,451,Google Chrome,3,0,1
+3,451,Samsung Gallery,3,0,1
+3,451,Samsung Gallery,3,0,1
+3,452,Google Chrome,3,0,1
+3,453,YouTube,3,0,1
+3,454,YouTube,3,0,1
+3,454,YouTube,3,0,1
+3,456,Google Chrome,3,0,3
+3,456,Google Chrome,3,0,3
+3,457,Google Chrome,3,0,4
+3,457,Google Chrome,3,0,4
+3,458,Google Chrome,3,0,4
+3,458,Google Chrome,3,0,4
+3,459,Contacts,3,0,4
+3,459,Contacts,3,0,4
+3,459,Contacts,3,0,4
+3,460,Google Chrome,3,0,4
+3,460,Google Chrome,3,0,4
+3,460,Google Chrome,3,0,4
+3,460,Google Chrome,3,0,4
+3,460,Google Chrome,3,0,4
+3,460,Google Chrome,3,0,4
+3,461,Google Chrome,3,0,4
+3,462,Google Chrome,3,0,4
+3,463,Google Chrome,3,0,4
+3,463,Google Chrome,3,0,4
+4,464,Yahoo Mail,4,0,4
+4,465,Yahoo Mail,4,0,4
+4,465,Yahoo Mail,4,0,4
+4,465,Google Chrome,4,0,4
+4,465,Google Chrome,4,0,4
+4,465,Google Chrome,4,0,4
+4,466,Google Chrome,4,0,4
+4,466,Google Chrome,4,0,4
+4,467,Google Chrome,4,0,5
+4,468,Google Chrome,4,0,5
+4,469,Google Chrome,4,0,5
+4,469,Maps,4,0,5
+4,469,Google Play Store,4,0,5
+4,469,Google Play Store,4,0,5
+4,469,Google Chrome,4,0,5
+4,469,Google Chrome,4,0,5
+4,469,Google Play Store,4,0,5
+4,469,Google Chrome,4,0,5
+4,469,Google Play Store,4,0,5
+4,470,Google Play Store,4,0,5
+4,471,Yahoo Mail,4,0,0
+4,471,Google Play Store,4,0,0
+4,471,Yahoo Mail,4,0,0
+4,472,Yahoo Mail,4,0,0
+4,473,Yahoo Mail,4,0,0
+4,473,Yahoo Mail,4,0,0
+4,473,Yahoo Mail,4,0,0
+4,474,Yahoo Mail,4,0,1
+4,475,Yahoo Mail,4,0,2
+4,475,Yahoo Mail,4,0,2
+4,476,Yahoo Mail,4,0,3
+4,477,Yahoo Mail,4,0,3
+4,477,Maps,4,0,3
+4,477,Yahoo Mail,4,0,3
+4,478,Yahoo Mail,4,0,3
+4,478,Contacts,4,0,3
+4,478,Google Chrome,4,0,3
+4,478,Google Play Store,4,0,3
+4,478,Google Chrome,4,0,3
+4,479,Google Chrome,4,0,3
+4,479,Maps,4,0,3
+4,479,Contacts,4,0,3
+4,480,Maps,4,0,4
+4,480,Contacts,4,0,4
+4,480,Google Chrome,4,0,4
+4,480,Google Chrome,4,0,4
+4,482,Google Chrome,4,0,4
+4,482,Google Chrome,4,0,4
+4,483,Google Chrome,4,0,4
+4,483,Google Chrome,4,0,4
+4,484,Google Play Store,4,0,4
+4,484,Google Play Store,4,0,4
+4,484,Google Chrome,4,0,4
+4,484,Google Chrome,4,0,4
+4,484,Google Play Store,4,0,4
+4,485,Contacts,4,0,4
+4,485,Google Chrome,4,0,4
+4,486,Google Chrome,4,0,4
+4,486,Google Chrome,4,0,5
+4,487,Google Chrome,4,0,5
+4,487,Google Chrome,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Chrome,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Chrome,4,0,5
+4,487,Google Chrome,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Play Store,4,0,5
+4,487,Google Chrome,4,0,5
+4,487,Google Chrome,4,0,5
+4,488,Google Play Store,4,0,5
+4,488,Google Chrome,4,0,5
+4,488,Google Chrome,4,0,5
+4,488,Google Chrome,4,0,5
+4,489,Google Chrome,4,0,5
+4,489,Google Chrome,4,0,5
+4,489,Google Chrome,4,0,5
+4,490,Google Chrome,4,0,5
+4,490,Google Chrome,4,0,5
+4,490,Google Chrome,4,0,5
+4,490,Google Chrome,4,0,5
+4,490,Google Chrome,4,0,5
+4,491,Google Chrome,4,0,5
+4,491,Maps,4,0,5
+4,492,Maps,4,0,5
+4,493,Yahoo Mail,4,0,0
+4,493,Yahoo Mail,4,0,0
+4,494,Yahoo Mail,4,0,0
+4,495,Yahoo Mail,4,0,1
+4,495,Yahoo Mail,4,0,1
+4,496,Yahoo Mail,4,1,0
+4,496,Yahoo Mail,4,1,0
+4,497,Yahoo Mail,4,1,0
+4,497,Yahoo Mail,4,1,0
+4,498,Yahoo Mail,4,1,0
+4,498,Yahoo Mail,4,1,0
+4,499,Yahoo Mail,4,1,1
+4,499,Google Play Store,4,1,1
+4,499,Yahoo Mail,4,1,1
+4,500,Yahoo Mail,4,1,3
+4,500,Google Play Store,4,1,3
+4,500,Yahoo Mail,4,1,3
+4,501,Yahoo Mail,4,1,4
+4,501,Yahoo Mail,4,1,4
+4,502,Yahoo Mail,4,1,4
+4,502,Yahoo Mail,4,1,4
+4,503,Yahoo Mail,4,1,4
+4,503,Yahoo Mail,4,1,4
+4,504,Yahoo Mail,4,1,4
+4,505,Yahoo Mail,4,1,5
+4,506,Yahoo Mail,4,1,5
+4,506,Yahoo Mail,4,1,5
+4,507,Yahoo Mail,4,1,0
+4,507,Yahoo Mail,4,1,0
+4,508,Yahoo Mail,4,1,1
